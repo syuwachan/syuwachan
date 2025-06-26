@@ -1,7 +1,4 @@
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=syuwachan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🛠️ My Tech Stack
 
 <p align="left">
